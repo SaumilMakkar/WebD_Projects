@@ -17,8 +17,4 @@ JAVASCRIPT,CSS AND HTML PROJECTS:</br>
 4.Simon game</br>
 5.Dice challenge</br>
 <hr>
-<h1>#Back-End-projects</h1>
-1.Qr-code generator
-2.Secret projects
-3.Band generator project
-4.Secrets Project
+
