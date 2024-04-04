@@ -1,5 +1,4 @@
 <h1>Front-End-Projects</h1>
-<hr>
 This repository contains all my front-end projects.It includes mini to detailed projects using html,css,javascript.</br>
 HTML projects:</br>
 1.Movie Ranking</br>
@@ -17,6 +16,5 @@ JAVASCRIPT,CSS AND HTML PROJECTS:</br>
 3.Drum Kit project</br>
 4.Simon game</br>
 5.Dice challenge</br>
-<hr>
 <hr>
 <h1>#Back-end-projects</h1>
