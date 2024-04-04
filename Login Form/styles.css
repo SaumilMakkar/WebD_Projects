@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+*{
+    font-family: "Poppins",sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;}
+    body{
+        min-height: 100vh;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+    background-color: antiquewhite;
+
+    }
+   
+    .container{
+position: relative;
+
+max-width:380px;
+width:100%;
+
+background-color:white;
+box-shadow:0 5px 10px rgba(0,0,0,0.2)   ;
+border-radius: 15px 15px 0px 0px;
+
+    }
+ .container .title{
+    line-height: 100px;
+background:linear-gradient(90deg,#c585c0,#4158d0);
+border-radius: 5px 5px 0px 0px;
+text-align: center;
+font-weight: bold;
+font-size:35px;
+color: white;
+ }
+ .container .form-details {
+
+   padding:10px 30px 50px 30px ;
+
+
+
+ }
+ .container .form-details .field{
+    width:100%;
+    height:50px;
+margin-top:20px;    
+position:relative;
+
+
+ }
+ .form-details .field input{
+    height:100%;
+    width:100%;
+    padding-left:19px;
+    border-radius:25px;
+    border:1px solid black;
+    transition: all 0.3s ease;
+    outline:none;
+    font-size:15px;
+
+ }
+ .form-details .field label{
+    position:absolute;
+    top: 50%;
+left:20px;
+transform: translateY(-50%);
+    display: flex;
+    cursor: pointer;
+    transition: all 0.3s ease;
+     font-size: 17px;
+     color:grey;
+     
+   
+
+
+ }
+ .container .form-details .field input:focus,.container .form-details .field input:valid{
+    border-color: rgb(182, 127, 255);
+ }
+ .container .form-details .field input:focus ~ label,
+ .container .form-details .field input:valid ~ label{
+    transform:translateY(-50%);
+    top:0%;
+    font-size:15px;
+    color:green;
+    
+ }
+ .container .form-details .pass-link{
+    margin-left: 10px;
+    margin-top:10px;
+ }
+ .container .form-details .field input[type="submit"]{
+    color:white;
+    background:linear-gradient(90deg,#c585c0,#4158d0);
+    display: flex;
+align-items:center;
+justify-content: center;
+font-size:18px;
+font-weight:500;
+cursor:pointer;
+padding-left:none;
+border:none;
+transition: all 0.3s ease;
+
+
+ }
+ .container .form-details .field input[type="submit"]:active{
+    transform:scale(0.95);
+ }
+ .container  .form-details .pass-link a,.container .form-details .signup a{
+    text-decoration: none;
+ }
+ .container  .form-details .pass-link a:hover,.container .form-details .signup a:hover{
+    text-decoration:underline;
+ }
+ 
+ .container .form-details .pass-link a{
+    display:flex;
+justify-content: flex-start;
+margin-top:10px;
+ }
+ .container .form-details .signup {
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+    
+ }
+ 
+ /* You can trigger CSS transitions directly with pseudo classes like :hover (activates when mouse goes over an element), :focus (activates when a user tabs onto an element, or when a user clicks into an input element), or :active (activates when user clicks on the element). */
