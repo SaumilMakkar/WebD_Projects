@@ -1,7 +1,7 @@
 # Front-end-projects
 This repsoitory contains all my front-end projects.It includes mini to detailed projects using html,css,javascript.
 HTML projects:
-1.Movie Ranking
+1.Movie Ranking\n
 2.Birthday Invite
 HTML AND CSS PROJECTS:
 1.Portfolio 
