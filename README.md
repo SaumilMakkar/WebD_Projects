@@ -1,18 +1,18 @@
 # Front-end-projects
 This repsoitory contains all my front-end projects.It includes mini to detailed projects using html,css,javascript.
-HTML projects:
+HTML projects:</br>
 1.Movie Ranking</br>
-2.Birthday Invite
-HTML AND CSS PROJECTS:
-1.Portfolio 
-2.Credit Card
-3.Login Form
-4.Profile Card
-5.Web design Agency
-6.Tin Dog project
-JAVASCRIPT,CSS AND HTML PROJECTS:
-1.Rock Paper scissors
-2.Currency converter
-3.Drum Kit project
-4.Simon game
-5.Dice challenge
+2.Birthday Invite</br>
+HTML AND CSS PROJECTS:</br>
+1.Portfolio</br> 
+2.Credit Card</br>
+3.Login Form</br>
+4.Profile Card</br>
+5.Web design Agency</br>
+6.Tin Dog project</br>
+JAVASCRIPT,CSS AND HTML PROJECTS:</br>
+1.Rock Paper scissors</br>
+2.Currency converter</br>
+3.Drum Kit project</br>
+4.Simon game</br>
+5.Dice challenge</br>
