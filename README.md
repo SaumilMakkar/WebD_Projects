@@ -24,5 +24,13 @@ JAVASCRIPT,CSS AND HTML PROJECTS:</br>
 8.Cricket Game</br>
 <hr>
 BACKEND PROJECTS:<br>
-1.
+1.QR Code Project</br>
+2.Secrets Project</br>
+3.Band generator </br>
+4.Secrets Project using Api auth</br>
+5.Travel Tracker</br>
+6.Family Travel Tracker</br>
+7.Permalist Project</br>
+8.Secrets Project using password auth</br>
+9.World Capital Quiz</br>
 
