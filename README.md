@@ -12,6 +12,7 @@ HTML AND CSS PROJECTS:</br>
 6.Tin Dog project</br>
 7.E-commerce website</br>
 8.Calculator Project</br>
+9.Zerodha Clone</br>
 
 JAVASCRIPT,CSS AND HTML PROJECTS:</br>
 1.Rock Paper scissors</br>
